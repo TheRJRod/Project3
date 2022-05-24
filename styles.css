@@ -51,7 +51,7 @@ footer {
     margin-top: 30px;
 }
 
-input[type=text], select, input[type=email], input[type=number] {
+input[type=text], select, input[type=email], input[type=tel] {
 
     width: 100%;
     padding: 10px;
@@ -158,7 +158,7 @@ button {
 
     }
    
-  .box7 {
+  .box2 {
 
     display:inline-flex;
     width:75%;
@@ -171,8 +171,8 @@ button {
 }
 
 .boxalign {
-
-    margin-left: 50px;
+    
+    margin-left: 52px;
 }
 
 
